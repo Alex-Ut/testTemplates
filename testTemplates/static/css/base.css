@@ -49,3 +49,25 @@
     font-weight: 600;
     text-decoration: none;
 }
+
+.titleh1 {
+    left: 77px;
+    top: 83px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Playfair Display;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.mainpagetxt {
+    font-size: 24px;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.titleh2 {
+    font-size: 20px;
+    word-wrap: break-word;
+}
